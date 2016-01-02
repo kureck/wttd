@@ -2,6 +2,10 @@
 
 Sistemas de eventos
 
+[![Build Status](https://travis-ci.org/kureck/wttd.svg?branch=master)](https://travis-ci.org/kureck/wttd)
+
+
+
 ## Como desenvolver?
 
 1. Clone
