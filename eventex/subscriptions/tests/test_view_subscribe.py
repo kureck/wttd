@@ -72,7 +72,7 @@ class SubscribePostInvalid(TestCase):
     def test_form_has_errors(self):
         self.assertTrue(self.form.errors)
 
-    def test_dont_save_subscription(self):
+    def test_doesnt_save_subscription(self):
         self.assertFalse(Subscription.objects.exists())
 
 
